@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamimMuhammad
-- 👀 I’m interested in 
+- 👀 I’m interested in Finance.
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any SQL project.
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-tamim-khan/
 
 <!---
